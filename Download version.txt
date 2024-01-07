@@ -1,0 +1,5 @@
+I am using " Android Studio Electric Eel | 2022.1.1 Patch 1 January 31, 2023 " version of IDE in this course which you can get from
+
+https://developer.android.com/studio/archive
+
+ after clicking on "I agree to Terms".
